@@ -1,0 +1,3 @@
+name: PlayerStacker
+version: ${project.version}
+main: net.encryptednick.playerstacker.PlayerStacker
